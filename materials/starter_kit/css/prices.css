@@ -1,0 +1,73 @@
+.title-services-container{
+    text-align: center;
+    font-style: italic;
+}
+
+
+/* table */
+
+thead{
+    background-color: #698303;
+    font-size: 15px;
+    font-weight: bold;
+}
+thead tr th{
+    font-weight: 500;
+}
+.side-table{
+    background-color:#85a701;
+    border: none;
+    border-top: 1px solid black;
+    font-weight: 600;
+    height: 40px;
+    padding: 10px;
+}
+
+.side-table2{
+    background-color:#a1c905;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    font-weight: 500;
+    font-size: 15px;
+    height: 20px;
+    padding: 7px;
+}
+
+.table-alternate{
+    background-color:#f2f2f2;   
+    
+}
+.marketing{
+    border-bottom: 1px solid black;
+}
+
+.border-class{
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    text-align: center;
+    padding: 5px;
+}
+
+.border-bottom{
+    border-bottom: 1px solid black;
+}
+
+.price{
+    width: 140px;
+}
+
+.vat{
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    text-align: center;
+    font-size: 17px;
+    height: 25px;
+}
+
+
+/*footer*/
+
+.contact-footer-container{
+    margin-top: 100px;
+}
